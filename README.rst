@@ -97,7 +97,7 @@ tarball will not work.)
 .. _Homebrew: http://brew.sh
 .. _gmp: http://gmplib.org
 .. _mpfr: http://mpfr.org
-.. _gsl: https//www.gnu.org/software/gsl/
+.. _gsl: https://www.gnu.org/software/gsl  
 
 Note for OS X users
 -------------------
